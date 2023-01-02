@@ -43,6 +43,9 @@ function onDataReceived(text) {
   else if(text === 'hello\n'){
     hello();
   }
+ 
+  //help command lists all the possible commands
+  
   else if(text ==='help\n'){
     allcommands();
   }
