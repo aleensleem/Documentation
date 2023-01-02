@@ -13,7 +13,7 @@ function startApp(aleen){
   process.stdin.resume();
   process.stdin.setEncoding('utf8');
   process.stdin.on('data', onDataReceived);
-  console.log(`Welcome to ${saif}'s application!`)
+  console.log(`Welcome to ${aleen}'s application!`)
   console.log("--------------------")
 }
 
