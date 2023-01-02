@@ -43,10 +43,10 @@ function onDataReceived(text) {
   else if(text === 'hello\n'){
     hello();
   }
-  else{
-    unknownCommand(text);
+  else if(text ==='help\n'){
+    allcommands();
   }
-}
+    
 
 
 /**
