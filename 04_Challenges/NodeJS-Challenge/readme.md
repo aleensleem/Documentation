@@ -4,7 +4,7 @@ We're going to create a simple command-line application.
 This application will allow to enter tasks, delete tasks, edit tasks, and list all tasks.
 This is called a Create Read Update Delete, or CRUD for shot.
 
-To control the application, we will use command line commands that we will invent and program ourselves.
+To control the helloapplication, we will use command line commands that we will invent and program ourselves.
 
 For example, if our file is called "tasks.js":
 
